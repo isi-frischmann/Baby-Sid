@@ -3,7 +3,6 @@
 I used Java, SpringBoot, HTML5, Bootstrap, CSS3 and as a database MySQL.
 
 First you can Register or Login as a Nanny or a Parent.
-![GitHub Logo](/Videos/loginAndLogout.gif)
 ![GitHub babySid](/Videos/loginAndLogout.gif)
 
 PARENT:
