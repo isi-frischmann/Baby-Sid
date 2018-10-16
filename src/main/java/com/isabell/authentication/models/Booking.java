@@ -18,12 +18,12 @@ import javax.persistence.Table;
 @Table(name="bookings")
 public class Booking {
 	@Id
-	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 	
 	private String bookingDate;
 	
-	@Column(updatable=false)
+	@Column(updatable = false)
     private Date createdAt;
     private Date updatedAt;
     

@@ -14,6 +14,8 @@
 </head>
 <body>
 
+<img class="mainPic" src="/img/loginAndReg.jpg">
+
 	<div class="leftSide">    
 	<h1>You have Kids?</h1> <br> 
     <h3>And you need someone - <br>
