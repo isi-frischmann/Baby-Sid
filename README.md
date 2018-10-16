@@ -9,6 +9,7 @@ First you can Register or Login as a Nanny or a Parent.
 PARENT:
 Can find Nannys close to his area and book the Nanny whenever it is possible. </br>
 ![GitHub babySid](/Videos/findNanny.gif)
+</br>
 
 The parent who booked a Nanny can first have a look at her information page. For example, if the Nanny come to the parents house,
 if she is coming to the Parent house, how many Kids she/he take care of and also the contact details.
