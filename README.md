@@ -8,6 +8,7 @@ First you can Register or Login as a Nanny or a Parent.
 </br>
 PARENT:
 Can find Nannys close to his area and book the Nanny whenever it is possible. </br>
+
 ![GitHub babySid](/Videos/findNanny.gif)
 </br>
 
@@ -21,4 +22,5 @@ After booking the Nanny the Parent can give Reviews for the Nanny and the Rating
 NANNY:
 The Nanny has to Register and also send her Certificate that she/he is allowed to take care of kids. 
 Otherwise the Nanny wouldn't be accepted on the program and she/he can't be booked.
+
 ![GitHub babySid](/Videos/portfolioNanny.gif)
