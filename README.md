@@ -1,6 +1,6 @@
-# BabySid is an App where Users can book a Nanny immedetaly and Nanny can register to take care of kids
+# BabySid is an app where users can book a babysitter immedetaly and babysitter's can register to take care of kids
 
-I used Java, SpringBoot, HTML5, Bootstrap, CSS3 and as a database MySQL.
+I used Java, SpringBoot, HTML5, Bootstrap, CSS3 and as the database MySQL.
 
 First you can register or login as a babysitter or a parent.
 ![GitHub babySid](/Videos/loginAndLogout.gif)
